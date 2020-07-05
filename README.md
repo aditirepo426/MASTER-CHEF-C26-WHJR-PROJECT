@@ -49,4 +49,4 @@ Recipe............
  10} Fry and stir the balls until golden brown
 
         
-            Serve tasty cheese balls hot with sauce or any dip. 
+   Serve tasty cheese balls hot with sauce or any dip. 
